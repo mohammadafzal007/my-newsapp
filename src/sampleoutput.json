@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jasmine Hicks",
+            "title": "This site lets you listen to nature sounds from all over the world",
+            "description": "Earth.fm is a non-profit portal of nature sounds recorded by individuals in various locations around the world. The sounds are accumulated through different contributors, some nature recordists, and are tied to different non-profits.",
+            "url": "https://www.theverge.com/2022/6/24/23180360/earth-fm-nature-sounds-soundscapes-environment",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/OUXCHj2CEPIyC7jH6k-9nEKbzl0=/0x135:2606x1499/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23647633/Screen_Shot_2022_06_23_at_3.31.15_PM.png",
+            "publishedAt": "2022-06-24T18:36:11Z",
+            "content": "Earth.fm brings together recordings from around the world\r\nEarth.fm homepage\r\nFor people who love discovering new sounds, theres an intriguing new site that collects soundscapes from around the world… [+1372 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Clare Foran, Kristin Wilson and Annie Grayer, CNN",
+            "title": "House passes first major federal gun safety legislation in decades, bill will next go to Biden for signature",
+            "description": "The House passed a bipartisan bill on Friday to address gun violence that amounts to the first major federal gun safety legislation in decades.",
+            "url": "https://www.cnn.com/2022/06/24/politics/house-vote-bipartisan-safer-communities-act/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220520155446-05-nancy-pelosi-file-super-tease.jpg",
+            "publishedAt": "2022-06-24T17:31:00+00:00",
+            "content": "(CNN)The House passed a bipartisan bill on Friday to address gun violence that amounts to the first major federal gun safety legislation in decades. \r\nThe final tally was 234 to 193 with 14 Republica… [+5563 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Bianca Guzzo",
+            "title": "This Canadian Brand Combines Nature With Science To Make *Chef's Kiss* Skincare Products",
+            "description": "And you can save 20% on your order with the code BUZZ20.",
+            "url": "https://www.buzzfeed.com/biancaguzzo/ativo-skincare-review",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/20/19/enhanced/3926008ea82a/original-869-1655752267-4.jpg?crop=1243:651;0,80%26downsize=1250:*",
+            "publishedAt": "2022-06-23T19:37:24.3892728Z",
+            "content": "We hope you love the products we recommend! All of them were independently selected by our editors. Just so you know, BuzzFeed may collect a share of sales or other compensation from the links on thi… [+116 chars]"
+        }
+    ]
+}

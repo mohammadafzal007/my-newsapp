@@ -1,0 +1,36 @@
+ul li{
+  left:0px;
+  display:inline-block;
+  line-height:30px;
+  margin:0 10px;
+  background: none;
+  text-transform: uppercase;
+  padding:0;
+}
+ul li a:hover{
+text-decoration: underline;
+
+}
+ul li a:hover::first-letter{
+text-decoration: underline;
+color:brown;
+font-size: 200%;
+
+}
+
+
+
+ul li{
+  position:relative;
+  left:250px;
+
+  
+}
+
+nav div a.navbar-brand::first-letter{
+  text-decoration: underline;
+color:brown;
+font-size: 200%;
+transition: 2.0s ease;
+text-decoration: underline;
+}
